@@ -1,0 +1,87 @@
+body{
+    margin: 0px;
+}
+h1 {
+    font-size: 50px;
+} 
+.color{
+color: red;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+#abc{
+    background-image: url(header-bg.png);
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: black;
+    font-weight: bolder;
+}
+.dream-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.try img{
+    width: 80%;
+}
+.kala{
+    text-align: center;
+}
+.work-pic img{
+    float: left;
+    width: 30%;
+    margin: 20px;
+    
+}
+.footer{
+    text-align: center;
+    
+}
+.pa{
+    color: gray;
+}
+.email{
+    background-color: hotpink;
+    margin-left: 450px;
+    margin-right: 450px;
+    text-decoration: none;
+    padding: 40px 40px;
+    border-radius: 30px;
+    font-weight: bolder;
+    background-color: 150px;
+}
+.dream-area{
+    background-image: url(C:\Web Development\projects\milestone-1\images\biography-bg.png);
+    background-repeat: no repeat;
+}
+.old{
+    padding-top: 150px;
+    padding-left: 100px;
+    font-size: large;
+}
+p{
+    color: rgb(83, 8, 8);
+    font-weight: bolder;
+}
+.new{
+    padding-right: 100px;
+}
+.experience-area{
+    background-image: url(images/latest-work-bg.png);
+}
+.footer{
+    background-image: url(images/footer-bg.png);
+}
